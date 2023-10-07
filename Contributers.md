@@ -10,5 +10,4 @@
 - sayam dubey
 - Shuaib
 - keshav
-- Sai Aryan 
 - Akriti
