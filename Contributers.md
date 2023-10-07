@@ -6,7 +6,7 @@
 - Saksham Tyagi
 - Satyam Srivastav
 - Nikita Baranwal
-- Sai Aryan Goswami
+- Deepali jain
 - sayam dubey
 - Shuaib
 - keshav
