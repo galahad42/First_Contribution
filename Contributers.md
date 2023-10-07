@@ -1,6 +1,6 @@
-## Contributers Name
-
-- Ishan Grover
-- Saksham Tyagi
-- Satyam Srivastav
+##Contributers Name
 - Briheet Singh Yadav
+- Ishan Grover
+- Satyam Srivastav
+- Vandana Gupta
+- Nikita Baranwal
