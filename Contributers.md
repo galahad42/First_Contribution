@@ -1,4 +1,5 @@
 ## Contributers Name
+
 - Briheet Singh Yadav
 - Ishan Grover
 - Vandana Gupta
@@ -6,3 +7,7 @@
 - Satyam Srivastav
 - Nikita Baranwal
 - Deepali jain
+- sayam dubey
+- Shuaib
+- keshav
+- Sai Aryan Goswami
